@@ -1,0 +1,24 @@
+# docs/ADDING_VENUES.md
+---
+name: "Inn Cahoots"
+description: ""
+instructions: ""
+url: ""
+
+address:
+  street: "1221 East 6th Street"
+  city: "Austin"
+  region: "Texas"
+  postal_code: "78702"
+  country: "United States"
+  country_code: "us"
+  display: "1221 E 6th St, Austin, TX 78702"
+
+coordinates:
+  latitude: 30.2639455
+  longitude: -97.7297154
+
+maps:
+  google: "https://maps.google.com/?q=Inn+Cahoots,30.2639455,-97.7297154"
+  apple: "https://maps.apple.com/?q=Inn+Cahoots&ll=30.2639455,-97.7297154"
+  openstreetmap: "https://www.openstreetmap.org/?mlat=30.2639455&mlon=-97.7297154"

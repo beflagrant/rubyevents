@@ -1,0 +1,12 @@
+# docs/ADDING_SCHEDULES.md
+---
+days:
+  - name: "Day 1"
+    date: "2026-09-22"
+    grid:
+      - start_time: "18:00"
+        end_time: "21:00"
+        slots: 1
+        items:
+          - title: "Social"
+            description: "A social hour to discuss where Ruby goes from here, and how we get it there — exploring governance gaps, newcomer retention, and infrastructure needs. Refreshments provided."
